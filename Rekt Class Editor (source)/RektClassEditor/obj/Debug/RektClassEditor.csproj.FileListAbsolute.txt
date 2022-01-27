@@ -1,0 +1,15 @@
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\bin\Debug\RektClassEditor.exe.config
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\bin\Debug\RektClassEditor.exe
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\bin\Debug\RektClassEditor.pdb
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\bin\Debug\Memory.dll
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\bin\Debug\Memory.xml
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\obj\Debug\RektClassEditor.csproj.AssemblyReference.cache
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\obj\Debug\RektClassEditor.Form1.resources
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\obj\Debug\RektClassEditor.Properties.Resources.resources
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\obj\Debug\RektClassEditor.csproj.GenerateResource.cache
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\obj\Debug\RektClassEditor.csproj.CoreCompileInputs.cache
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\obj\Debug\RektClassEditor.csproj.CopyComplete
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\obj\Debug\RektClassEditor.exe
+C:\Users\coope\OneDrive\Desktop\RektClassEditor\RektClassEditor\obj\Debug\RektClassEditor.pdb
